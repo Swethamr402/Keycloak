@@ -1,0 +1,9 @@
+{
+  "realm": "ISA_KeyClock",
+  "bearer-only": true,
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "Mobile Application",
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+} 
